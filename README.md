@@ -90,4 +90,4 @@ Công cụ Crawl dữ liệu được viết bằng Python Framework [Scrapy](ht
 
 ### 4. Crawl dữ liệu
 
-`scrapy crawl diemthi2024 --nolog`# diem_thi_2024
+`scrapy crawl diemthi2024 --nolog`
