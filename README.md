@@ -1,6 +1,6 @@
 # Dữ liệu thô Điểm thi tốt nghiệp THPT 2024
 
-Dữ liệu cập nhật ngày 18/07/2013, không bao gồm điểm phúc khảo.
+Dữ liệu cập nhật ngày 17/07/2013, không bao gồm điểm phúc khảo.
 
 Download tại đây: [https://github.com/anhdung98/diem_thi_2024/releases/download/240717/diem_thi_thpt_2024.csv](https://github.com/anhdung98/diem_thi_2024/releases/download/240717/diem_thi_thpt_2024.csv)
 
