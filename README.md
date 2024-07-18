@@ -86,7 +86,7 @@ Công cụ Crawl dữ liệu được viết bằng Python Framework [Scrapy](ht
 
 ### 3. Tải source code bằng _git_
 
-`git clone --branch source-code https://github.com/anhdung98/diem_thi_2024.git`
+`git clone https://github.com/anhdung98/diem_thi_2024.git`
 
 ### 4. Crawl dữ liệu
 
